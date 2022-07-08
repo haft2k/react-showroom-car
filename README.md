@@ -7,7 +7,7 @@
 | Phương Hoàng Long | Design page for customer rent car and put data customer to api data |
 | Vũ Quang Sơn      | Design Service page                                                 |
 | Nguyễn Hải Long   | Design Home page and merge code team and fix bug bootstrap          |
-|-----------------------------------------------------------------------------------------|
+
 
 # How setup website test if you want download
 - git clone repository
