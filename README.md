@@ -1,5 +1,5 @@
 # Website for rent car brand Huyndai
-** Made by `me and 3 guy` in team **
+__ Made by `me and 3 guy` in team__
 
 
 # How run website
@@ -9,7 +9,6 @@
 
 # This project we use package:
 > In file package.json have information
-
 
 
 
