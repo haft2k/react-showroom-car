@@ -1,6 +1,6 @@
 # Website for rent car brand Huyndai
 **Made by `team` work in a week**
-|-----------------------------------------------------------------------------------------|
+
 |       Name        |                               Position                              |
 |-------------------|---------------------------------------------------------------------|
 | Trần Duy Hà       | Design page management car and user                                 |
