@@ -1,5 +1,5 @@
-# Website for rent car brand Huyndai*
-* Made by `me and 3 guy` in team *
+# Website for rent car brand Huyndai
+** Made by `me and 3 guy` in team 
 
 
 # How run website
