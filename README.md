@@ -1,9 +1,9 @@
 # Website for rent car brand Huyndai
-**Made by `me and 3 guy` in team on a week**
-`Phương Hoàng Long
-Trần Duy Hà
-Vũ Quang Sơn
-Nguyễn Hải Long`
+**Made by `team` work in a week**
+`Trần Duy Hà`
+`Phương Hoàng Long`
+`Vũ Quang Sơn`
+`Nguyễn Hải Long`
 
 
 # How setup website test if you want download
@@ -18,9 +18,4 @@ Nguyễn Hải Long`
 Have function admin management car and customer rent 
 
 
-***Project not a real brand Huyndai. Just project in school***
-
-"Phương Hoàng Long
-Trần Duy Hà
-Vũ Quang Sơn
-Nguyễn Hải Long"
+***Project not a real brand of Huyndai. Just project in school exam knowledge for working***
